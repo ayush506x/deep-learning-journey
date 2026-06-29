@@ -209,9 +209,8 @@ This will be the centrepiece of my GitHub and the proof that I don't just use AI
 ## 📊 Stats
 
 - 📅 **Started:** June 2026
-- 🔥 **Current Streak:** 1 day
+- 🔥 **Current Streak:** 4 day
 - ✅ **Weeks Completed:** 0 / 16
-- 📝 **Notes Written:** 0
 - 💻 **Total Commits:** updating daily
 
 ---
